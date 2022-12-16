@@ -1,7 +1,7 @@
 <img src="assets/background.gif" />
 <hr>
 <p align="center">
-<b style="font-size:30vw;">Introduction to machine learning - Homework 3</b>
+<b style="font-size:30vw;">Introduction to machine learning - Project</b>
 </p>
 <hr>
 <b>Introduction</b><br>
